@@ -324,7 +324,6 @@ a{
 @media screen and (max-width:576px) {  
   .navbar{
     width: 95%;
-    border: 2px solid tomato;
   }
   .navigation-btn{
     display: none;
