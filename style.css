@@ -4,6 +4,11 @@
 .inter-font{
   font-family: "Work Sans", sans-serif;
 } 
+/* Shape Font  */
+@import url(@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap'));
+.dancing-font{
+  font-family: "Dancing Script", cursive;
+}
 *{
   margin: 0;
 }
